@@ -1,6 +1,7 @@
 ## Drift Faster Liquidator
 
-# There are two main things this bot submission solves: 
+
+There are two main things this bot submission solves: 
 
 1. Removing websockets.   Websockets are notoriously slow on solana. It takes upwards of minutes to fetch data from a web socket and so I do not think that it is currently a scalable solution as of this current solana version.   
 
