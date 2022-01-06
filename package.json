@@ -1,0 +1,24 @@
+{
+  "name": "liquidatorbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@drift-labs/sdk": "^0.1.12",
+    "@project-serum/anchor": "^0.19.1-beta.1",
+    "@solana/web3.js": "^1.31.0",
+    "axios": "^0.24.0",
+    "bn.js": "^5.2.0",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
